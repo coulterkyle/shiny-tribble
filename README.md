@@ -6,8 +6,8 @@ The previous website had old HTML code that was not up to current HTML semantic 
 
 ## Installation
 
-Follow the Website link:
-
+Follow the website link:
+https://coulterkyle.github.io/shiny-tribble/
 
 ## Credits
 
